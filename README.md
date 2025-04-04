@@ -8,10 +8,8 @@ Welcome! I'm a soon-to-be Computer Science graduate majoring in **Artificial Int
 
 | Project | Description |
 |--------|-------------|
-| [Face Mask Detection](./face-mask-detection) | Real-time mask detection using OpenCV and a pre-trained CNN. |
-| [Property Price Predictor](./property-price-predictor) | Predicts Malaysian housing prices using regression models and EDA. |
-| [Stock Price Forecasting](./stock-price-prediction) | Forecasts stock trends using LSTM-based deep learning models. |
-| [Resume Scanner NLP](./resume-scanner-nlp) | Extracts skills and matches resumes to job descriptions using spaCy. |
+| [Stock Price Predictor](./stock-price-predictor) | A Python-based project that predicts future stock prices using historical data and **Linear Regression**. |
+
 
 ---
 
