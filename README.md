@@ -30,9 +30,9 @@ Welcome! I'm a soon-to-be Computer Science graduate majoring in **Artificial Int
 
 I'm actively looking for junior roles in AI, data science, or computer vision. Feel free to reach out!
 
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
+- Email: [ooijunquan689@gmail.com](mailto:your.email@example.com)
+- LinkedIn: [linkedin.com/in/ooi-jun-quan-640409322](https://www.linkedin.com/in/ooi-jun-quan-640409322/)
+- GitHub: [github.com/JunQuan689](https://github.com/JunQuan689)
 
 ---
 
