@@ -31,4 +31,15 @@ This project demonstrates how to use machine learning to forecast stock prices b
 
 ---
 
+## ▶️ How to Run This Project
+
+Follow the steps below to run the Stock Price Predictor locally on your machine:
+
+---
+
+### 📥 1. Clone the Repository
+
+```bash
+git clone https://github.com/JunQuan689/Portfolio.git
+cd Portfolio/stock-price-predictor
 
