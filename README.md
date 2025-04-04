@@ -17,7 +17,7 @@ Welcome! I'm a soon-to-be Computer Science graduate majoring in **Artificial Int
 
 ## ⚙️ Tools & Technologies
 
-- Python, Jupyter Notebooks
+- Python
 - pandas, NumPy, scikit-learn
 - TensorFlow / Keras, OpenCV
 - NLP (spaCy, NLTK)
