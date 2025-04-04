@@ -32,5 +32,4 @@ It's designed as a portfolio project to showcase basic ML and data visualization
 
 ---
 
-## 📁 Project Structure
 
