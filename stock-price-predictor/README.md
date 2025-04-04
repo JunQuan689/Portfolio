@@ -37,9 +37,11 @@ Follow the steps below to run the Stock Price Predictor locally on your machine:
 
 ---
 
-### 📥 1. Clone the Repository
+### 📥 1. Clone the Repository & Downlaod requriements
 
 ```bash
 git clone https://github.com/JunQuan689/Portfolio.git
 cd Portfolio/stock-price-predictor
+pip install -r requirements.txt
+
 
