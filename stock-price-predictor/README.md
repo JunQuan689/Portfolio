@@ -8,7 +8,6 @@ A Python project that predicts future stock closing prices using historical data
 
 This project demonstrates how to use machine learning to forecast stock prices based on historical trends. It loads stock data from a CSV file, preprocesses it, trains a Linear Regression model, and visualizes the actual vs. predicted prices using Plotly.
 
-It's designed as a portfolio project to showcase basic ML and data visualization skills using pure Python.
 
 ---
 
@@ -24,7 +23,7 @@ It's designed as a portfolio project to showcase basic ML and data visualization
 
 ## 🛠 Tech Stack
 
-- Python 3.x
+- Python 
 - pandas
 - numpy
 - scikit-learn
